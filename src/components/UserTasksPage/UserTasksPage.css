@@ -1,0 +1,18 @@
+.Insebu{
+    display: flex;
+}
+
+.sel{
+    width: 150px;
+}
+
+.edit{
+    color: orange;
+
+}
+
+.del{
+    color: red;
+    margin-left: 10px;
+}
+

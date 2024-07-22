@@ -1,0 +1,63 @@
+.list_edit_del {
+  display: flex;
+  margin-top: 40px;
+}
+
+.edit_div {
+  display: flex;
+  width: 100%;
+  margin-right: 40px;
+}
+
+.edit_btn {
+  width: 150px;
+  color: #fff;
+  background-color: orange;
+  margin-left: 10px;
+}
+
+.del_btn {
+  color: #fff;
+  background-color: red;
+  width: 150px;
+}
+
+.addList {
+  display: flex;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.addBtn {
+  width: 150px;
+  margin-left: 40px;
+}
+
+.divTasks{
+    margin-top: 40px;
+}
+
+.antd_list {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    width: 100%;
+}
+
+.list_left {
+    display: flex;
+}
+
+.edit_btn1 {
+    color: orange;
+    font-size: 20px;
+}
+
+.del_btn1 {
+    color: red;
+    font-size: 20px;
+}
+
+.ant-layout-content {
+    width: 100%;
+}
